@@ -85,7 +85,7 @@ API Reference Example:
 LinkedIn: https://linkedlin.com/in/petersroberf  
 Email: petersroberf@gmail.com
 
-# [Repository Title]
+# Robert Peters
 
 ## Executive Summary
 
