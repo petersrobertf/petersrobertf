@@ -82,5 +82,5 @@ API Reference Example:
 
 ## Contact
 
-LinkedIn: [INSERT LINK]  
-Email: [INSERT PROFESSIONAL EMAIL]
+LinkedIn: https://linkedlin.com/in/petersroberf  
+Email: petersroberf@gmail.com
